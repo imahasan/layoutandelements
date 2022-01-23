@@ -1,0 +1,27 @@
+here I am practicing
+ 1. Layout design with <div>
+  i. wrapper
+  ii. floating
+  iii. overflow
+
+  iv. clearfix
+
+  Layout - can be done in 3 way
+    Float
+      none / left / right
+    Grid
+    Flex
+
+  display property
+    block
+    inline
+    inline-block
+    none
+
+    content
+    height
+
+
+
+ 2. w3schools tag reference from 51 to rest
+ 

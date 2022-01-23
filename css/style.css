@@ -1,0 +1,157 @@
+*,*::before,*::after{
+	margin: 0;
+	padding :0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: rgb(211, 211, 211);
+}
+
+input{
+	align-items: left;
+}
+
+ul, li {
+	align-items: left;
+	float: none;
+	!important;
+}
+.ulli{
+	margin-left:5.5%
+	!important;
+}
+hr{
+	width:75%;
+	margin-left:12.5%
+	!important;
+	margin-right:12.5%
+	!important;
+}
+img{
+	width: 300px;
+}
+
+.header1{
+	height: 10px;
+	background-color: red;
+}
+
+.header2{
+	min-height: 10px;
+	background-color: red;
+}
+
+.header3{
+	min-height: 100px;
+	background-color: magenta;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.contact{
+	min-height: 100px;
+	background-color: green;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 100px;
+	background-color: teal;
+	width: 40%;
+	float: right;
+}
+
+.box{
+	min-height: 100px;
+	width: 20%;
+	float: left;
+}
+.violet{
+	background-color: violet;
+}
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;
+}
+.orange{
+	background-color: orange;
+}
+.lime{
+	background-color: lime;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
+
+.main_wrapper {
+    /* max-width: 1300px; */
+    /* margin-left: 5%;
+		margin-right: 5%; */
+		/* margin-left: auto;
+		margin-right: auto; */
+		overflow: hidden;
+		position: absolute;
+		text-align: center;
+}
+.middle{
+	float: left;
+	margin-top: 10px;
+	/* justify-content: center; */
+}
+.left_margin{
+	margin-left: 5%;
+}
+.left_side_bar {
+	/* top: 100spx;
+	left: 0px; */
+	/* margin: 20px 1% 0px 0px; */
+	width: 16%;
+	height: 400px;
+	background-color: turquoise;
+	/* text-align: center; */
+}
+.middle_box{
+	width: 56%;
+	min-height: 500px;
+	/* margin: 20px 0px 0px 0px; */
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: goldenrod;
+}
+.right_side_bar {
+	/* top: 100spx;
+	left: 0px; */
+	/* margin: 20px 0px 0px 1%; */
+	width: 16%;
+	height: 400px;
+	background-color: magenta;
+	/* text-align: center; */
+}
+.right_margin{
+	margin-right: 5%;
+}
+
+.frame {
+  width: 300px;
+  height: 250px;
+  border: 3px solid #110b0b;
+  background: rgb(137, 177, 169);
+  /* margin: auto; */
+  padding: 15px 10px;
+}
+
+.form1{
+	margin: 20px 20px 20px 20px;
+	background-color: rgb(196, 196, 106);
+}
+.form2{
+	margin: 20px 20px 20px 20px;
+	background-color: rgba(196, 196, 166, .45);
+}
